@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafay</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🔭 I’m currently working on [Softmuch](https://softmuch.com)
+- 🔭 I’m currently working on [Clicky](https://Clicky.pk)
 
 - 🌱 I’m currently learning **Flutter**
 
