@@ -1,33 +1,35 @@
-<h1 align="center">Hi 👋, I'm Rafay</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<img src="assets/profile-banner.svg" alt="Muhammad Rafay Qureshi — Software Engineer, Full-Stack Development and AI Integrations" width="100%" />
 
-- 🔭 I’m currently working on [Cognointel](https://Cognointel.com)
+I build business websites, web apps and practical AI integrations. I'm a software engineer based in Pakistan with **4+ years of hands-on project experience**.
 
-- 🌱 I’m currently learning **Flutter**
+### What I can help you build
 
-- 👯 I’m looking to collaborate with **other content creators**
+- **Business websites & online stores** — responsive interfaces, clear journeys, and WordPress or ecommerce work.
+- **Web apps & dashboards** — frontend development, APIs, and database-backed workflows.
+- **AI integrations & automation** — model APIs, assistants, and useful workflow tools.
 
-- ⚡ Fun fact **I love to play circuit and Chai over coffee.**
+**Toolkit:** React · Next.js · Node.js · Python · PostgreSQL · WordPress · JavaScript
 
-### Connect with me:
+### Selected code
 
-<a href="https://linkedin.com/in/rafayy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abuanwar072" height="22" width="22" /></a>
+| Project | What to explore | Scope |
+| --- | --- | --- |
+| [Software engineering portfolio](https://github.com/rafayyqureshi/rafay-portfolio) | Real website captures, project details, and interactive demos | Personal portfolio |
+| [EmotionSense](https://github.com/rafayyqureshi/EmotionSense) | Flask application for single-comment and CSV emotion-analysis workflows | Existing Python prototype |
+| [Aether](https://github.com/rafayyqureshi/aether-writing-studio) | Writing workspace with local templates and tone controls | Original frontend concept |
+| [Kanso](https://github.com/rafayyqureshi/kanso-storefront) | Product filters, shopping bag, quantities and totals | Original frontend concept |
+| [Pulse](https://github.com/rafayyqureshi/pulse-analytics) | Reporting periods, sample charts and subscription search | Original frontend concept |
+| [Haven](https://github.com/rafayyqureshi/haven-property-search) | Budget and neighborhood filters, saved sample homes | Original frontend concept |
+| [Flowboard](https://github.com/rafayyqureshi/flowboard-workspace) | Add tasks and move work across a Kanban board | Original frontend concept |
 
+### Selected websites
 
-<br />
+[Creventa](https://creventa.com/) · [Kokobeo](https://kokobeo.com/) · [BuyCondo.sg](https://buycondo.sg/)
 
-### Languages and Tools:
+Website previews are included in the portfolio. The live websites may include later work by other contributors; client source code is not republished here.
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-<img src="https://www.svgrepo.com/show/3968/linux.svg" alt="linux" width="22" height="22"/> 
-<img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="mysql" width="22" height="22"/> 
-<img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="22" height="22"/> 
+### Working together
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayyqureshi&layout=compact&hide=html" alt="rafayyqureshi" /></p>
+Open to freelance projects and remote opportunities. I focus on clear communication, maintainable code, and software that solves a useful business problem.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayyqureshi&show_icons=true" alt="rafayyqureshi" /></p>
-
-
+The newer concept repositories were prepared in November 2026. Earlier projects retain their own original histories.
