@@ -27,9 +27,9 @@ These are original frontend concepts with working browser interactions and illus
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
+| [EmotionSense](https://github.com/rafayyqureshi/EmotionSense) | Flask API, CSV validation, explicit inference sources and 33 automated tests | Tested development prototype |
 | [AIS Stream](https://github.com/rafayyqureshi/aisstream) | Flask APIs, vessel telemetry, trajectory views and collision-risk calculations | Development prototype |
 | [EmotionSense2](https://github.com/rafayyqureshi/EmotionSense2) | Streamlit interface, BERT/GPT training and model comparison | ML research workspace |
-| [EmotionSense](https://github.com/rafayyqureshi/EmotionSense) | Single-comment and CSV analysis with model API integration | Flask prototype |
 | [Portfolio](https://github.com/rafayyqureshi/rafay-portfolio) | Responsive design, real website captures and seven interactive concepts | Personal portfolio |
 
 **More interface work:** [Aether writing studio](https://github.com/rafayyqureshi/aether-writing-studio) · [Haven property search](https://github.com/rafayyqureshi/haven-property-search) · [Flowboard task board](https://github.com/rafayyqureshi/flowboard-workspace)
