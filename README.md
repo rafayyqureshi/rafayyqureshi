@@ -32,4 +32,3 @@ Website previews are included in the portfolio. The live websites may include la
 
 Open to freelance projects and remote opportunities. I focus on clear communication, maintainable code, and software that solves a useful business problem.
 
-The newer concept repositories were prepared in November 2026. Earlier projects retain their own original histories.
